@@ -2806,3 +2806,4 @@ node_modules/.bin/is-ci
 node_modules/.bin/esvalidate
 node_modules/.bin/esparse
 node_modules/.bin/acorn
+@types/express/index.d.ts
